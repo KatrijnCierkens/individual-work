@@ -14,5 +14,7 @@
 
 - Permissions
 
-  
+- Exercises 
+
+- Automated control
 
